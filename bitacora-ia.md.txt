@@ -1,0 +1,6 @@
+# Bitácora de Uso de IA
+
+- **El prompt:** Asistencia para estructurar y desarrollar las funciones y pruebas del Trabajo Final Integrador de Programación (TUT UTN FRBA).
+- **Qué contestó:** Estructuras de funciones en Python usando la biblioteca estándar, manejo de sockets, análisis de logs y bloques de pruebas con assert.
+- **Qué cambiaste:** Adaptación de los casos de prueba, validaciones de sintaxis SCPI y manejo de tabulaciones en el archivo de log.
+- **Cómo lo verificaste:** Ejecución local de cada script con sus respectivos asserts y validación contra el instrumento virtual y el archivo de log.
